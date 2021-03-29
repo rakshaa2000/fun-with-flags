@@ -1,23 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import { Button, Card,CardContent } from "@material-ui/core";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Card className="flagcontent">
+        <CardContent>
+          <h2>Hey there</h2>
+          <h3>This is a fun exercise that helps you learn more about the different flags of the LGBTQIA+ communities. </h3>
+          <h4>Let's dive in and learn</h4>
+        </CardContent>
+            <Button variant="contained">Let's play</Button>
+      </Card>
     </div>
   );
 }
