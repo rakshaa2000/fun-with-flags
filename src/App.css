@@ -1,21 +1,31 @@
 html, body {
   height: 100%;
   margin: 0px;
+  background-size: cover;
+  background-image: url("./images/bg.png");
+  background-repeat: no-repeat;
 }
 .App {
   text-align: center;
   height: 100vh;
   width: 100vw;
-  background-size: 100% 100%;
-  background-image: url("./images/bg.png");
 }
 .flagcontent{
-  width: 50%;
-  height: 50%;
-  position: absolute;
-  left: 25%;
-  top: 25%;
-  background-image: url("./images/bg\ inner.png");
-  background-size: cover;
+  width: 70%;
+  position: relative;
+  padding: 2%;
+  left: 15%;
+  top: 20%;
   border-radius: 10px !important;
+  background-color: rgba(240, 255, 255, 0.63) !important;
+  background-size: cover;
+  background-position: center center;
 }
+@media only screen and (max-width: 767px) {
+  body {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url('./images/Fun\ with\ Flags.gif');
+    background-size: cover;
+  }
+	}
