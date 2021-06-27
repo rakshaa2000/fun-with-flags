@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//fun-with-flags/static/css/main.50a2d4eb.chunk.css",
-    "main.js": "//fun-with-flags/static/js/main.4bcf77eb.chunk.js",
-    "main.js.map": "//fun-with-flags/static/js/main.4bcf77eb.chunk.js.map",
-    "runtime-main.js": "//fun-with-flags/static/js/runtime-main.6932b5b3.js",
-    "runtime-main.js.map": "//fun-with-flags/static/js/runtime-main.6932b5b3.js.map",
-    "static/js/2.64b7148b.chunk.js": "//fun-with-flags/static/js/2.64b7148b.chunk.js",
-    "static/js/2.64b7148b.chunk.js.map": "//fun-with-flags/static/js/2.64b7148b.chunk.js.map",
-    "static/js/3.1e904d7d.chunk.js": "//fun-with-flags/static/js/3.1e904d7d.chunk.js",
-    "static/js/3.1e904d7d.chunk.js.map": "//fun-with-flags/static/js/3.1e904d7d.chunk.js.map",
-    "index.html": "//fun-with-flags/index.html",
-    "static/css/main.50a2d4eb.chunk.css.map": "//fun-with-flags/static/css/main.50a2d4eb.chunk.css.map",
-    "static/js/2.64b7148b.chunk.js.LICENSE.txt": "//fun-with-flags/static/js/2.64b7148b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "//fun-with-flags/static/media/bg.6d80b71c.png"
+    "main.css": "/fun-with-flags/static/css/main.ccfe6b6d.chunk.css",
+    "main.js": "/fun-with-flags/static/js/main.4bcf77eb.chunk.js",
+    "main.js.map": "/fun-with-flags/static/js/main.4bcf77eb.chunk.js.map",
+    "runtime-main.js": "/fun-with-flags/static/js/runtime-main.abf5b065.js",
+    "runtime-main.js.map": "/fun-with-flags/static/js/runtime-main.abf5b065.js.map",
+    "static/js/2.64b7148b.chunk.js": "/fun-with-flags/static/js/2.64b7148b.chunk.js",
+    "static/js/2.64b7148b.chunk.js.map": "/fun-with-flags/static/js/2.64b7148b.chunk.js.map",
+    "static/js/3.1e904d7d.chunk.js": "/fun-with-flags/static/js/3.1e904d7d.chunk.js",
+    "static/js/3.1e904d7d.chunk.js.map": "/fun-with-flags/static/js/3.1e904d7d.chunk.js.map",
+    "index.html": "/fun-with-flags/index.html",
+    "static/css/main.ccfe6b6d.chunk.css.map": "/fun-with-flags/static/css/main.ccfe6b6d.chunk.css.map",
+    "static/js/2.64b7148b.chunk.js.LICENSE.txt": "/fun-with-flags/static/js/2.64b7148b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fun-with-flags/static/media/bg.6d80b71c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6932b5b3.js",
+    "static/js/runtime-main.abf5b065.js",
     "static/js/2.64b7148b.chunk.js",
-    "static/css/main.50a2d4eb.chunk.css",
+    "static/css/main.ccfe6b6d.chunk.css",
     "static/js/main.4bcf77eb.chunk.js"
   ]
 }
