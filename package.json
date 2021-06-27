@@ -2,7 +2,7 @@
   "name": "fun_with_flags",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rakshaa2000.github.io//fun-with-flags",
+  "homepage": "https://rakshaa2000.github.io/fun-with-flags",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
